@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <title>web page</title>
+    <link rel="stylesheet" href="style.css">
+    <div style="text-align:center"> 
+    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSR0Q9CRHnnESS4Dt0e7bA9X7vWQipVMTuXloTZUkNBirbmLS6"width="400px" height="250px" alt="Things to know">
+    <h2>Where to find the tutorial</h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlWTsCI1YFioeXEun75Mvj1p0Rdy_KQ5t1QyTKZE695eNYhWc8mg" width="120" height="90" alt = "BooksforReference"<br>
+    <p><a href="https://launchschool.com/books">Reference Books</a></p>
+    <a href="https://www.coursera.org/course/learning
+12 Comments">
+  <h2>Video Links</h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx1aPMKVFh-KPKDjbrzxRYaiBMGIy8uxltng_6dunRFPebhkJikg" width="400" height ="300" alt="https://www.coursera.org/course/learning
+12 Comments" style="width:200px;height:132px;border:0;">
+<p><a href="https://www.youtube.com/watch?v=UkrhNJ0OyVs">Using your brains</a></p>
+<p><a href="https://www.coursera.org/learn/build-a-computer" target="_blank">Coursera(NandtoTetris)</a></p>
+<p><a href="https://youtu.be/yJipL_dykcc">CrashCourse</a></p>
+<p><a href="https://www.coursera.org/learn/learning-how-to-learn">Learn how to learn</a></p>
+<p><a href="https://httpbin.org/">httpbin</a></p>
+<h2>Local Links</h2>
+
+<p><a href="https://codehs.com/student/971260">CodeHS</a></p>
+
+<p><a href="https://dhamanidevilekkala.postach.io/">EvernoteBlogpost</a></p>
+<p><a href="https://codenvy.io/site/login?redirect_url=https%3A%2F%2Fcodenvy.io%2F">Codenvy</a></p>
+<p><a href="file:///C:/Users/harikiran/Downloads/parrots_training_main%20(1).pdf">Parrot'sTraining</a></p>
+<p><a href="https://repl.it/repls">Repl.it</a></p>
+<p><a href="https://github.com/">GitandGitHub</a></p>
+<p><a href="file:///C:/Users/harikiran/Downloads/IntroductionToAPIs.pdf">Introduction to APIs</a></p>
+<p><a href="http://nilclass.com/courses/how-websites-work/#1">Nilclass</a></p>
+</body> 
+</html>
